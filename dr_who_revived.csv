@@ -1,0 +1,167 @@
+,Story,Episode,Title,Directed by,Written by,Original air date,Prod.code,UK viewers(millions),AI,Season,Doctor,Lead Actor
+1,157,1,"""Rose""",Keith Boak,Russell T Davies,2005-03-26,1.1,10.81,76,1,Ninth Doctor,Christopher Eccleston
+2,158,2,"""The End of the World""",Euros Lyn,Russell T Davies,2005-04-02,1.2,7.97,76,1,Ninth Doctor,Christopher Eccleston
+3,159,3,"""The Unquiet Dead""",Euros Lyn,Mark Gatiss,2005-04-09,1.3,8.86,80,1,Ninth Doctor,Christopher Eccleston
+4,160,4,"""Aliens of London""",Keith Boak,Russell T Davies,2005-04-16,1.4,7.63,82,1,Ninth Doctor,Christopher Eccleston
+5,160,5,"""World War Three""",Keith Boak,Russell T Davies,2005-04-23,1.5,7.98,81,1,Ninth Doctor,Christopher Eccleston
+6,161,6,"""Dalek""",Joe Ahearne,Robert Shearman,2005-04-30,1.6,8.63,84,1,Ninth Doctor,Christopher Eccleston
+7,162,7,"""The Long Game""",Brian Grant,Russell T Davies,2005-05-07,1.7,8.01,81,1,Ninth Doctor,Christopher Eccleston
+8,163,8,"""Father's Day""",Joe Ahearne,Paul Cornell,2005-05-14,1.8,8.06,83,1,Ninth Doctor,Christopher Eccleston
+9,164,9,"""The Empty Child""",James Hawes,Steven Moffat,2005-05-21,1.9,7.11,84,1,Ninth Doctor,Christopher Eccleston
+10,164,10,"""The Doctor Dances""",James Hawes,Steven Moffat,2005-05-28,1.1,6.86,85,1,Ninth Doctor,Christopher Eccleston
+11,165,11,"""Boom Town""",Joe Ahearne,Russell T Davies,2005-06-04,1.11,7.68,82,1,Ninth Doctor,Christopher Eccleston
+12,166,12,"""Bad Wolf""",Joe Ahearne,Russell T Davies,2005-06-11,1.12,6.81,86,1,Ninth Doctor,Christopher Eccleston
+13,166,13,"""The Parting of the Ways""",Joe Ahearne,Russell T Davies,2005-06-18,1.13,6.91,89,1,Ninth Doctor,Christopher Eccleston
+14,167,13,"""The Christmas Invasion""",James Hawes,Russell T Davies,2005-12-25,2X,9.84,84,2,Tenth Doctor,David Tennant
+15,168,1,"""New Earth""",James Hawes,Russell T Davies,2006-04-15,2.1,8.62,85,2,Tenth Doctor,David Tennant
+16,169,2,"""Tooth and Claw""",Euros Lyn,Russell T Davies,2006-04-22,2.2,9.24,83,2,Tenth Doctor,David Tennant
+17,170,3,"""School Reunion""",James Hawes,Toby Whithouse,2006-04-29,2.3,8.31,85,2,Tenth Doctor,David Tennant
+18,171,4,"""The Girl in the Fireplace""",Euros Lyn,Steven Moffat,2006-05-06,2.4,7.9,84,2,Tenth Doctor,David Tennant
+19,172,5,"""Rise of the Cybermen""",Graeme Harper,Tom MacRae,2006-05-13,2.5,9.22,86,2,Tenth Doctor,David Tennant
+20,172,6,"""The Age of Steel""",Graeme Harper,Tom MacRae,2006-05-20,2.6,7.63,86,2,Tenth Doctor,David Tennant
+21,173,7,"""The Idiot's Lantern""",Euros Lyn,Mark Gatiss,2006-05-27,2.7,6.76,84,2,Tenth Doctor,David Tennant
+22,174,8,"""The Impossible Planet""",James Strong,Matt Jones,2006-06-03,2.8,6.32,85,2,Tenth Doctor,David Tennant
+23,174,9,"""The Satan Pit""",James Strong,Matt Jones,2006-06-10,2.9,6.08,86,2,Tenth Doctor,David Tennant
+24,175,10,"""Love & Monsters""",Dan Zeff,Russell T Davies,2006-06-17,2.10,6.66,76,2,Tenth Doctor,David Tennant
+25,176,11,"""Fear Her""",Euros Lyn,Matthew Graham,2006-06-24,2.11,7.14,83,2,Tenth Doctor,David Tennant
+26,177,12,"""Army of Ghosts""",Graeme Harper,Russell T Davies,2006-07-01,2.12,8.19,86,2,Tenth Doctor,David Tennant
+27,177,13,"""Doomsday""",Graeme Harper,Russell T Davies,2006-07-08,2.13,8.22,89,2,Tenth Doctor,David Tennant
+28,178,13,"""The Runaway Bride""",Euros Lyn,Russell T Davies,2006-12-25,3X,9.35,84,3,Tenth Doctor,David Tennant
+29,179,1,"""Smith and Jones""",Charles Palmer,Russell T Davies,2007-03-31,3.1,8.71,88,3,Tenth Doctor,David Tennant
+30,180,2,"""The Shakespeare Code""",Charles Palmer,Gareth Roberts,2007-04-07,3.2,7.23,87,3,Tenth Doctor,David Tennant
+31,181,3,"""Gridlock""",Richard Clark,Russell T Davies,2007-04-14,3.3,8.41,85,3,Tenth Doctor,David Tennant
+32,182,4,"""Daleks in Manhattan""",James Strong,Helen Raynor,2007-04-21,3.4,6.69,86,3,Tenth Doctor,David Tennant
+33,182,5,"""Evolution of the Daleks""",James Strong,Helen Raynor,2007-04-28,3.5,6.97,85,3,Tenth Doctor,David Tennant
+34,183,6,"""The Lazarus Experiment""",Richard Clark,Stephen Greenhorn,2007-05-05,3.6,7.19,86,3,Tenth Doctor,David Tennant
+35,184,7,"""42""",Graeme Harper,Chris Chibnall,2007-05-19,3.7,7.41,85,3,Tenth Doctor,David Tennant
+36,185,8,"""Human Nature""",Charles Palmer,Paul Cornell,2007-05-26,3.8,7.74,86,3,Tenth Doctor,David Tennant
+37,185,9,"""The Family of Blood""",Charles Palmer,Paul Cornell,2007-06-02,3.9,7.21,86,3,Tenth Doctor,David Tennant
+38,186,10,"""Blink""",Hettie MacDonald,Steven Moffat,2007-06-09,3.10,6.62,87,3,Tenth Doctor,David Tennant
+39,187,11,"""Utopia""",Graeme Harper,Russell T Davies,2007-06-16,3.11,7.84,87,3,Tenth Doctor,David Tennant
+40,187,12,"""The Sound of Drums""",Colin Teague,Russell T Davies,2007-06-23,3.12,7.51,87,3,Tenth Doctor,David Tennant
+41,187,13,"""Last of the Time Lords""",Colin Teague,Russell T Davies,2007-06-30,3.13,8.61,88,3,Tenth Doctor,David Tennant
+42,188,13,"""Voyage of the Damned""",James Strong,Russell T Davies,2007-12-25,4X,13.31,86,4,Tenth Doctor,David Tennant
+43,189,1,"""Partners in Crime""",James Strong,Russell T Davies,2008-04-05,4.1,9.14,88,4,Tenth Doctor,David Tennant
+44,190,2,"""The Fires of Pompeii""",Colin Teague,James Moran,2008-04-12,4.3,9.04,87,4,Tenth Doctor,David Tennant
+45,191,3,"""Planet of the Ood""",Graeme Harper,Keith Temple,2008-04-19,4.2,7.5,87,4,Tenth Doctor,David Tennant
+46,192,4,"""The Sontaran Stratagem""",Douglas Mackinnon,Helen Raynor,2008-04-26,4.4,7.06,87,4,Tenth Doctor,David Tennant
+47,192,5,"""The Poison Sky""",Douglas Mackinnon,Helen Raynor,2008-05-03,4.5,6.53,88,4,Tenth Doctor,David Tennant
+48,193,6,"""The Doctor's Daughter""",Alice Troughton,Stephen Greenhorn,2008-05-10,4.6,7.33,88,4,Tenth Doctor,David Tennant
+49,194,7,"""The Unicorn and the Wasp""",Graeme Harper,Gareth Roberts,2008-05-17,4.7,8.41,86,4,Tenth Doctor,David Tennant
+50,195,8,"""Silence in the Library""",Euros Lyn,Steven Moffat,2008-05-31,4.9,6.27,89,4,Tenth Doctor,David Tennant
+51,195,9,"""Forest of the Dead""",Euros Lyn,Steven Moffat,2008-06-07,4.10,7.84,89,4,Tenth Doctor,David Tennant
+52,196,10,"""Midnight""",Alice Troughton,Russell T Davies,2008-06-14,4.8,8.05,86,4,Tenth Doctor,David Tennant
+53,197,11,"""Turn Left""",Graeme Harper,Russell T Davies,2008-06-21,4.11,8.09,88,4,Tenth Doctor,David Tennant
+54,198,12,"""The Stolen Earth""",Graeme Harper,Russell T Davies,2008-06-28,4.12,8.78,91,4,Tenth Doctor,David Tennant
+55,198,13,"""Journey's End""",Graeme Harper,Russell T Davies,2008-07-05,4.13,10.57,91,4,Tenth Doctor,David Tennant
+56,199,1,"""The Next Doctor""",Andy Goddard,Russell T Davies,2008-12-25,4.14,13.1,86,4,Tenth Doctor,David Tennant
+57,200,2,"""Planet of the Dead""",James Strong,Russell T Davies & Gareth Roberts,2009-04-11,4.15,9.75,88,4,Tenth Doctor,David Tennant
+58,201,3,"""The Waters of Mars""",Graeme Harper,Russell T Davies & Phil Ford,2009-11-15,4.16,10.32,88,4,Tenth Doctor,David Tennant
+59,202,4,"""The End of Time – Part One""",Euros Lyn,Russell T Davies,2009-12-25,4.17,12.04,87,4,Tenth Doctor,David Tennant
+60,202,5,"""The End of Time – Part Two""",Euros Lyn,Russell T Davies,2010-01-01,4.18,12.27,89,4,Tenth Doctor,David Tennant
+61,203,1,"""The Eleventh Hour""",Adam Smith,Steven Moffat,2010-04-03,1.1,10.09,86,5,Eleventh Doctor,Matt Smith
+62,204,2,"""The Beast Below""",Andrew Gunn,Steven Moffat,2010-04-10,1.2,8.42,86,5,Eleventh Doctor,Matt Smith
+63,205,3,"""Victory of the Daleks""",Andrew Gunn,Mark Gatiss,2010-04-17,1.3,8.21,84,5,Eleventh Doctor,Matt Smith
+64,206,4,"""The Time of Angels""",Adam Smith,Steven Moffat,2010-04-24,1.4,8.59,87,5,Eleventh Doctor,Matt Smith
+65,206,5,"""Flesh and Stone""",Adam Smith,Steven Moffat,2010-05-01,1.5,8.5,86,5,Eleventh Doctor,Matt Smith
+66,207,6,"""The Vampires of Venice""",Jonny Campbell,Toby Whithouse,2010-05-08,1.6,7.68,86,5,Eleventh Doctor,Matt Smith
+67,208,7,"""Amy's Choice""",Catherine Morshead,Simon Nye,2010-05-15,1.7,7.55,84,5,Eleventh Doctor,Matt Smith
+68,209,8,"""The Hungry Earth""",Ashley Way,Chris Chibnall,2010-05-22,1.8,6.49,86,5,Eleventh Doctor,Matt Smith
+69,209,9,"""Cold Blood""",Ashley Way,Chris Chibnall,2010-05-29,1.9,7.49,85,5,Eleventh Doctor,Matt Smith
+70,210,10,"""Vincent and the Doctor""",Jonny Campbell,Richard Curtis,2010-06-05,1.1,6.76,86,5,Eleventh Doctor,Matt Smith
+71,211,11,"""The Lodger""",Catherine Morshead,Gareth Roberts,2010-06-12,1.11,6.44,87,5,Eleventh Doctor,Matt Smith
+72,212,12,"""The Pandorica Opens""",Toby Haynes,Steven Moffat,2010-06-19,1.12,7.57,88,5,Eleventh Doctor,Matt Smith
+73,212,13,"""The Big Bang""",Toby Haynes,Steven Moffat,2010-06-26,1.13,6.7,89,5,Eleventh Doctor,Matt Smith
+74,213,13,"""A Christmas Carol""",Toby Haynes,Steven Moffat,2010-12-25,2.X,12.11,83,6,Eleventh Doctor,Matt Smith
+75,214,1,"""The Impossible Astronaut""",Toby Haynes,Steven Moffat,2011-04-23,2.1,8.86,88,6,Eleventh Doctor,Matt Smith
+76,214,2,"""Day of the Moon""",Toby Haynes,Steven Moffat,2011-04-30,2.2,7.3,87,6,Eleventh Doctor,Matt Smith
+77,215,3,"""The Curse of the Black Spot""",Jeremy Webb,Stephen Thompson,2011-05-07,2.9,7.85,86,6,Eleventh Doctor,Matt Smith
+78,216,4,"""The Doctor's Wife""",Richard Clark,Neil Gaiman,2011-05-14,2.3,7.97,87,6,Eleventh Doctor,Matt Smith
+79,217,5,"""The Rebel Flesh""",Julian Simpson,Matthew Graham,2011-05-21,2.5,7.35,85,6,Eleventh Doctor,Matt Smith
+80,217,6,"""The Almost People""",Julian Simpson,Matthew Graham,2011-05-28,2.6,6.72,86,6,Eleventh Doctor,Matt Smith
+81,218,7,"""A Good Man Goes to War""",Peter Hoar,Steven Moffat,2011-06-04,2.7,7.51,88,6,Eleventh Doctor,Matt Smith
+82,219,8,"""Let's Kill Hitler""",Richard Senior,Steven Moffat,2011-08-27,2.8,8.1,85,6,Eleventh Doctor,Matt Smith
+83,220,9,"""Night Terrors""",Richard Clark,Mark Gatiss,2011-09-03,2.4,7.07,86,6,Eleventh Doctor,Matt Smith
+84,221,10,"""The Girl Who Waited""",Nick Hurran,Tom MacRae,2011-09-10,2.10,7.6,85,6,Eleventh Doctor,Matt Smith
+85,222,11,"""The God Complex""",Nick Hurran,Toby Whithouse,2011-09-17,2.11,6.77,86,6,Eleventh Doctor,Matt Smith
+86,223,12,"""Closing Time""",Steve Hughes,Gareth Roberts,2011-09-24,2.12,6.93,86,6,Eleventh Doctor,Matt Smith
+87,224,13,"""The Wedding of River Song""",Jeremy Webb,Steven Moffat,2011-10-01,2.13,7.67,86,6,Eleventh Doctor,Matt Smith
+88,225,13,"""The Doctor, the Widow and the Wardrobe""",Farren Blackburn,Steven Moffat,2011-12-25,None,10.77,84,7,Eleventh Doctor,Matt Smith
+89,226,1,"""Asylum of the Daleks""",Nick Hurran,Steven Moffat,2012-09-01,None,8.33,89,7,Eleventh Doctor,Matt Smith
+90,227,2,"""Dinosaurs on a Spaceship""",Saul Metzstein,Chris Chibnall,2012-09-08,None,7.57,87,7,Eleventh Doctor,Matt Smith
+91,228,3,"""A Town Called Mercy""",Saul Metzstein,Toby Whithouse,2012-09-15,None,8.42,85,7,Eleventh Doctor,Matt Smith
+92,229,4,"""The Power of Three""",Douglas Mackinnon,Chris Chibnall,2012-09-22,None,7.67,87,7,Eleventh Doctor,Matt Smith
+93,230,5,"""The Angels Take Manhattan""",Nick Hurran,Steven Moffat,2012-09-29,None,7.82,88,7,Eleventh Doctor,Matt Smith
+94,231,5,"""The Snowmen""",Saul Metzstein,Steven Moffat,2012-12-25,None,9.87,87,7,Eleventh Doctor,Matt Smith
+95,232,6,"""The Bells of Saint John""",Colm McCarthy,Steven Moffat,2013-03-30,None,8.44,87,7,Eleventh Doctor,Matt Smith
+96,233,7,"""The Rings of Akhaten""",Farren Blackburn,Neil Cross,2013-04-06,None,7.45,84,7,Eleventh Doctor,Matt Smith
+97,234,8,"""Cold War""",Douglas Mackinnon,Mark Gatiss,2013-04-13,None,7.37,84,7,Eleventh Doctor,Matt Smith
+98,235,9,"""Hide""",Jamie Payne,Neil Cross,2013-04-20,None,6.61,85,7,Eleventh Doctor,Matt Smith
+99,236,10,"""Journey to the Centre of the TARDIS""",Mat King,Stephen Thompson,2013-04-27,None,6.5,85,7,Eleventh Doctor,Matt Smith
+100,237,11,"""The Crimson Horror""",Saul Metzstein,Mark Gatiss,2013-05-04,None,6.47,85,7,Eleventh Doctor,Matt Smith
+101,238,12,"""Nightmare in Silver""",Stephen Woolfenden,Neil Gaiman,2013-05-11,None,6.64,84,7,Eleventh Doctor,Matt Smith
+102,239,13,"""The Name of the Doctor""",Saul Metzstein,Steven Moffat,2013-05-18,None,7.45,88,7,Eleventh Doctor,Matt Smith
+103,240,1,"""The Day of the Doctor""",Nick Hurran,Steven Moffat,2013-11-23,None,12.8,88,7,Eleventh Doctor,Matt Smith
+104,241,2,"""The Time of the Doctor""",Jamie Payne,Steven Moffat,2013-12-25,None,11.14,83,7,Eleventh Doctor,Matt Smith
+105,242,1,"""Deep Breath""",Ben Wheatley,Steven Moffat,2014-08-23,None,9.17,82,8,Twelfth Doctor,Peter Capaldi
+106,243,2,"""Into the Dalek""",Ben Wheatley,Phil Ford & Steven Moffat,2014-08-30,None,7.29,84,8,Twelfth Doctor,Peter Capaldi
+107,244,3,"""Robot of Sherwood""",Paul Murphy,Mark Gatiss,2014-09-06,None,7.28,82,8,Twelfth Doctor,Peter Capaldi
+108,245,4,"""Listen""",Douglas Mackinnon,Steven Moffat,2014-09-13,None,7.01,82,8,Twelfth Doctor,Peter Capaldi
+109,246,5,"""Time Heist""",Douglas Mackinnon,Stephen Thompson & Steven Moffat,2014-09-20,None,6.99,84,8,Twelfth Doctor,Peter Capaldi
+110,247,6,"""The Caretaker""",Paul Murphy,Gareth Roberts & Steven Moffat,2014-09-27,None,6.82,83,8,Twelfth Doctor,Peter Capaldi
+111,248,7,"""Kill the Moon""",Paul Wilmshurst,Peter Harness,2014-10-04,None,6.91,82,8,Twelfth Doctor,Peter Capaldi
+112,249,8,"""Mummy on the Orient Express""",Paul Wilmshurst,Jamie Mathieson,2014-10-11,None,7.11,85,8,Twelfth Doctor,Peter Capaldi
+113,250,9,"""Flatline""",Douglas Mackinnon,Jamie Mathieson,2014-10-18,None,6.71,85,8,Twelfth Doctor,Peter Capaldi
+114,251,10,"""In the Forest of the Night""",Sheree Folkson,Frank Cottrell-Boyce,2014-10-25,None,6.92,83,8,Twelfth Doctor,Peter Capaldi
+115,252,11,"""Dark Water""",Rachel Talalay,Steven Moffat,2014-11-01,None,7.34,85,8,Twelfth Doctor,Peter Capaldi
+116,252,12,"""Death in Heaven""",Rachel Talalay,Steven Moffat,2014-11-08,None,7.6,83,8,Twelfth Doctor,Peter Capaldi
+117,253,12,"""Last Christmas""",Paul Wilmshurst,Steven Moffat,2014-12-25,None,8.28,82,9,Twelfth Doctor,Peter Capaldi
+118,254,1,"""The Magician's Apprentice""",Hettie MacDonald,Steven Moffat,2015-09-19,None,6.54,84,9,Twelfth Doctor,Peter Capaldi
+119,254,2,"""The Witch's Familiar""",Hettie MacDonald,Steven Moffat,2015-09-26,None,5.71,83,9,Twelfth Doctor,Peter Capaldi
+120,255,3,"""Under the Lake""",Daniel O'Hara,Toby Whithouse,2015-10-03,None,5.63,84,9,Twelfth Doctor,Peter Capaldi
+121,255,4,"""Before the Flood""",Daniel O'Hara,Toby Whithouse,2015-10-10,None,6.05,83,9,Twelfth Doctor,Peter Capaldi
+122,256,5,"""The Girl Who Died""",Ed Bazalgette,Jamie Mathieson and Steven Moffat,2015-10-17,None,6.56,82,9,Twelfth Doctor,Peter Capaldi
+123,257,6,"""The Woman Who Lived""",Ed Bazalgette,Catherine Tregenna,2015-10-24,None,6.11,81,9,Twelfth Doctor,Peter Capaldi
+124,258,7,"""The Zygon Invasion""",Daniel Nettheim,Peter Harness,2015-10-31,None,5.76,82,9,Twelfth Doctor,Peter Capaldi
+125,258,8,"""The Zygon Inversion""",Daniel Nettheim,Peter Harness and Steven Moffat,2015-11-07,None,6.03,84,9,Twelfth Doctor,Peter Capaldi
+126,259,9,"""Sleep No More""",Justin Molotnikov,Mark Gatiss,2015-11-14,None,5.61,78,9,Twelfth Doctor,Peter Capaldi
+127,260,10,"""Face the Raven""",Justin Molotnikov,Sarah Dollard,2015-11-21,None,6.05,84,9,Twelfth Doctor,Peter Capaldi
+128,261,11,"""Heaven Sent""",Rachel Talalay,Steven Moffat,2015-11-28,None,6.19,80,9,Twelfth Doctor,Peter Capaldi
+129,262,12,"""Hell Bent""",Rachel Talalay,Steven Moffat,2015-12-05,None,6.17,82,9,Twelfth Doctor,Peter Capaldi
+130,263,12,"""The Husbands of River Song""",Douglas Mackinnon,Steven Moffat,2015-12-25,None,7.69,82,9,Twelfth Doctor,Peter Capaldi
+131,264,12,"""The Return of Doctor Mysterio""",Ed Bazalgette,Steven Moffat,2016-12-25,None,7.83,82,10,Twelfth Doctor,Peter Capaldi
+132,265,1,"""The Pilot""",Lawrence Gough,Steven Moffat,2017-04-15,None,6.68,83,10,Twelfth Doctor,Peter Capaldi
+133,266,2,"""Smile""",Lawrence Gough,Frank Cottrell-Boyce,2017-04-22,None,5.98,83,10,Twelfth Doctor,Peter Capaldi
+134,267,3,"""Thin Ice""",Bill Anderson,Sarah Dollard,2017-04-29,None,5.61,84,10,Twelfth Doctor,Peter Capaldi
+135,268,4,"""Knock Knock""",Bill Anderson,Mike Bartlett,2017-05-06,None,5.73,83,10,Twelfth Doctor,Peter Capaldi
+136,269,5,"""Oxygen""",Charles Palmer,Jamie Mathieson,2017-05-13,None,5.27,83,10,Twelfth Doctor,Peter Capaldi
+137,270,6,"""Extremis""",Daniel Nettheim,Steven Moffat,2017-05-20,None,5.53,82,10,Twelfth Doctor,Peter Capaldi
+138,271,7,"""The Pyramid at the End of the World""",Daniel Nettheim,Peter Harness and Steven Moffat,2017-05-27,None,5.79,82,10,Twelfth Doctor,Peter Capaldi
+139,272,8,"""The Lie of the Land""",Wayne Yip,Toby Whithouse,2017-06-03,None,4.82,82,10,Twelfth Doctor,Peter Capaldi
+140,273,9,"""Empress of Mars""",Wayne Yip,Mark Gatiss,2017-06-10,None,5.02,83,10,Twelfth Doctor,Peter Capaldi
+141,274,10,"""The Eaters of Light""",Charles Palmer,Rona Munro,2017-06-17,None,4.73,81,10,Twelfth Doctor,Peter Capaldi
+142,275,11,"""World Enough and Time""",Rachel Talalay,Steven Moffat,2017-06-24,None,5.0,85,10,Twelfth Doctor,Peter Capaldi
+143,275,12,"""The Doctor Falls""",Rachel Talalay,Steven Moffat,2017-07-01,None,5.3,83,10,Twelfth Doctor,Peter Capaldi
+144,276,12,"""Twice Upon a Time""",Rachel Talalay,Steven Moffat,2017-12-25,None,7.92,81,10,Twelfth Doctor,Peter Capaldi
+145,277,1,"""The Woman Who Fell to Earth""",Jamie Childs,Chris Chibnall,2018-10-07,None,10.96,83,11,Thirteenth Doctor,Jodie Whittaker
+146,278,2,"""The Ghost Monument""",Mark Tonderai,Chris Chibnall,2018-10-14,None,9.0,82,11,Thirteenth Doctor,Jodie Whittaker
+147,279,3,"""Rosa""",Mark Tonderai,Malorie Blackman and Chris Chibnall,2018-10-21,None,8.41,83,11,Thirteenth Doctor,Jodie Whittaker
+148,280,4,"""Arachnids in the UK""",Sallie Aprahamian,Chris Chibnall,2018-10-28,None,8.22,83,11,Thirteenth Doctor,Jodie Whittaker
+149,281,5,"""The Tsuranga Conundrum""",Jennifer Perrott,Chris Chibnall,2018-11-04,None,7.76,79,11,Thirteenth Doctor,Jodie Whittaker
+150,282,6,"""Demons of the Punjab""",Jamie Childs,Vinay Patel,2018-11-11,None,7.48,80,11,Thirteenth Doctor,Jodie Whittaker
+151,283,7,"""Kerblam!""",Jennifer Perrott,Pete McTighe,2018-11-18,None,7.46,81,11,Thirteenth Doctor,Jodie Whittaker
+152,284,8,"""The Witchfinders""",Sallie Aprahamian,Joy Wilkinson,2018-11-25,None,7.21,81,11,Thirteenth Doctor,Jodie Whittaker
+153,285,9,"""It Takes You Away""",Jamie Childs,Ed Hime,2018-12-02,None,6.42,80,11,Thirteenth Doctor,Jodie Whittaker
+154,286,10,"""The Battle of Ranskoor Av Kolos""",Jamie Childs,Chris Chibnall,2018-12-09,None,6.65,79,11,Thirteenth Doctor,Jodie Whittaker
+155,287,10,"""Resolution""",Wayne Yip,Chris Chibnall,2019-01-01,None,7.13,80,11,Thirteenth Doctor,Jodie Whittaker
+156,288,1,"""Spyfall, Part 1""",Jamie Magnus Stone,Chris Chibnall,2020-01-01,None,6.89,82,12,Thirteenth Doctor,Jodie Whittaker
+157,288,2,"""Spyfall, Part 2""",Lee Haven Jones,Chris Chibnall,2020-01-05,None,6.07,82,12,Thirteenth Doctor,Jodie Whittaker
+158,289,3,"""Orphan 55""",Lee Haven Jones,Ed Hime,2020-01-12,None,5.38,77,12,Thirteenth Doctor,Jodie Whittaker
+159,290,4,"""Nikola Tesla's Night of Terror""",Nida Manzoor,Nina Metivier,2020-01-19,None,5.2,79,12,Thirteenth Doctor,Jodie Whittaker
+160,291,5,"""Fugitive of the Judoon""",Nida Manzoor,Vinay Patel and Chris Chibnall,2020-01-26,None,5.57,83,12,Thirteenth Doctor,Jodie Whittaker
+161,292,6,"""Praxeus""",Jamie Magnus Stone,Pete McTighe and Chris Chibnall,2020-02-02,None,5.22,78,12,Thirteenth Doctor,Jodie Whittaker
+162,293,7,"""Can You Hear Me?""",Emma Sullivan,Charlene James and Chris Chibnall,2020-02-09,None,4.9,78,12,Thirteenth Doctor,Jodie Whittaker
+163,294,8,"""The Haunting of Villa Diodati""",Emma Sullivan,Maxine Alderton,2020-02-16,None,5.07,80,12,Thirteenth Doctor,Jodie Whittaker
+164,295,9,"""Ascension of the Cybermen""",Jamie Magnus Stone,Chris Chibnall,2020-02-23,None,4.99,81,12,Thirteenth Doctor,Jodie Whittaker
+165,295,10,"""The Timeless Children""",Jamie Magnus Stone,Chris Chibnall,2020-03-01,None,4.69,82,12,Thirteenth Doctor,Jodie Whittaker
+166,296,10,"""Revolution of the Daleks""",Lee Haven Jones,Chris Chibnall,2021-01-01,None,6.35,79,12,Thirteenth Doctor,Jodie Whittaker
